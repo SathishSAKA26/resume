@@ -1,0 +1,59 @@
+body {
+  font-family: 'Merriweather', serif;
+  width: 90%;
+  max-width: 850px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-section {
+  text-align: center;
+  margin-top: 40px;
+}
+
+h1,
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h3 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2,
+h3 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+}
+
+li {
+  font-size: 14px;
+}
+a,
+span {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.education-date {
+  float: right;
+}
+
+/* a, span - inline elements */
